@@ -1,0 +1,5 @@
+
+// Init
+public class Dictionnaire {
+
+}
