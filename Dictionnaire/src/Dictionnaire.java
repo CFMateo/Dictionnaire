@@ -1,5 +1,5 @@
 
-// Init
+// Init dddd
 public class Dictionnaire {
 
 }
