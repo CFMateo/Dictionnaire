@@ -1,5 +1,5 @@
 
-// Init dddd
+// Test
 public class Dictionnaire {
 
 }
